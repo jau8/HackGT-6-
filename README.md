@@ -1,3 +1,6 @@
+Have you ever been to a restaurant and did not know what to order? we create this app to help you by recommending the most popular dishes other customers have ordered in the past few days/months by retrieving all transactions have been made at the restarants in the past few days/months. If there are a lot of people order something, there is a good chance that it will be good!
+
+
 # Google Places SDK for Android
 
 This repo demonstrate the use of the [Google Places SDK for Android][google] with custom auto complete adapter.
