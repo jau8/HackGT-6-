@@ -18,10 +18,6 @@ Add a dependency for the new SDK client library to your app-level build.gradle:
     implementation 'com.google.android.libraries.places:places:1.0.0'
 
 ## Screen Shoots
-<img src="./images/1.png" width=“400”/>
-<img src="./images/2.png" width=“400”/>
-<img src="./images/3.png" width=“400”/>
-
 ![Test Image 1](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot3.png)
 ![Test Image 2](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot2.png)
 ![Test Image 3](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot4.png)
