@@ -22,6 +22,7 @@ Add a dependency for the new SDK client library to your app-level build.gradle:
 <img src="./images/2.png" width=“400”/>
 <img src="./images/3.png" width=“400”/>
 
-[google]: <https://developers.google.com/places/android-sdk/intro>
-[simple-google]: <https://github.com/googlemaps/android-places-demos>
-[console-google]: <https://console.cloud.google.com>
+![Test Image 1](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot3.png)
+![Test Image 2](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot2.png)
+![Test Image 3](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot4.png)
+![Test Image 4](https://github.com/jau8/HackGT6---AnhEm/blob/master/Smaop%20Screenshots/Screenshot.png)
